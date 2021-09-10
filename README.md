@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Delta</h1>
-<h3 align="center">A Flutter developer from Iran,and I love open source and Linux</h3>
 
 - 🔭 I’m currently working on [Todoey android app](https://github.com/Abolfazl-MI/Todo_v2.git)
-
-- 🌱 I’m currently learning **Flutter,Angla U course udeamy**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Abolfazl-MI?tab=repositories](https://github.com/Abolfazl-MI?tab=repositories)
 
 - 📝 I regularly write articles on [https://virgool.io/](https://virgool.io/)
 
 - 💬 Ask me about **Flutter,Dart,Python**
 
 - 📫 How to reach me **abolfazlmashhadi93@gmai.com**
+
+<h3 align="center">A Flutter developer from Iran,and I love open source and Linux</h3>
 
 - ⚡ Fun fact **I am friendly and love Team working**
 
