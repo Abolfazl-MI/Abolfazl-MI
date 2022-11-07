@@ -16,7 +16,7 @@ I'm Currently studding Software engineering in College <br>I'm looking for Colla
 
 ### Tools and Technologies
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,vscode,figma,git,github,firebase,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,vscode,figma,git,appwrite,github,firebase,linux&theme=dark" />
   </a>
 
   
