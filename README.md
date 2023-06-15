@@ -9,7 +9,7 @@ I'm Currently studding Software engineering in College <br>I'm looking for Colla
 ##
 ### Programming Languges
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,python,ts&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,python,ts,js&theme=dark" />
   </a>
 
 ##
