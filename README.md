@@ -9,14 +9,14 @@ I'm Currently studding Software engineering in College <br>I'm looking for Colla
 ##
 ### Programming Languges
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,python,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,python,js,ts&theme=dark" />
   </a>
 
 ##
 
 ### Tools and Technologies
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,vscode,figma,git,appwrite,github,firebase,linux,expressjs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,vscode,figma,git,appwrite,github,firebase,linux,expressjs,nestjs&theme=dark" />
   </a>
 
   
