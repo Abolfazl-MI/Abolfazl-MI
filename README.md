@@ -1,7 +1,4 @@
 <p align="center"><h1 align="center"><samp> I'm <a href="#">AbolfazlMashhadi </a> </samp></h1></p>
-<p align="center"><h3 align="center"><samp> A Geek Flutter Developer</samp></h3></p>
-<br>
-<div>
 
 # Hi there! 👋
 Welcome to my GitHub profile! I'm Abolfazl, a Flutter and backend developer passionate about building robust and innovative applications.
