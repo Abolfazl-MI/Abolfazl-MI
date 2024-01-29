@@ -44,7 +44,7 @@ I'm Currently studding Software engineering in College <br>I'm looking for Colla
   <a href="https://linkedin.com/in/abolfazl-mashhadi">
     <img src="https://skillicons.dev/icons?i=email&theme=dark" />
   </a>
-  <a href="https://www.coffeebede.com/abolfazl_mi"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
   
  
 
