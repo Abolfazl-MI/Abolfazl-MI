@@ -1,4 +1,3 @@
-<p align="center"><h1 align="center"><samp> I'm <a href="#">AbolfazlMashhadi </a> </samp></h1></p>
 
 # Hi there! 👋
 Welcome to my GitHub profile! I'm Abolfazl, a Flutter and backend developer passionate about building robust and innovative applications.
