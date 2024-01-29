@@ -3,8 +3,14 @@
 <br>
 <div>
 
-# 💫 About Me:
-I'm Currently studding Software engineering in College <br>I'm looking for Collaborate on Flutter Projects<br> you can ask me about Flutter and Dart, <br>I'm crazy about learning and upgrading my Skills
+# Hi there! 👋
+Welcome to my GitHub profile! I'm Abolfazl, a Flutter and backend developer passionate about building robust and innovative applications.
+
+## About Me
+With a background in software engineering, I specialize in creating delightful user experiences through Flutter for mobile platforms and crafting scalable backend solutions using NestJS and Express.js. I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
+
+## What I'm Working On
+Currently, I'm immersed in developing cross-platform mobile applications with Flutter, leveraging its flexibility and performance to deliver seamless experiences across iOS and Android devices. Additionally, I'm architecting robust backend systems with NestJS and Express.js, ensuring scalability, security, and efficiency.
 ---
 ##
 ### Programming Languges
