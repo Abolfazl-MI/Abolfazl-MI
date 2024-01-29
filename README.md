@@ -27,14 +27,10 @@ Currently, I'm immersed in developing cross-platform mobile applications with Fl
 
 ##
 
-### Stats
-  <a href="https://github.com/Abolfazl-MI">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abolfazl-MI&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /></a>
-</br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl-MI&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-
-##
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abolfazl-MI&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abolfazl-MI&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl-MI&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Connect with me
   <a href="https://instagram.com/codeadavtures?igshid=YmMyMTA2M2Y=">
