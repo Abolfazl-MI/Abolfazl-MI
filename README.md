@@ -32,6 +32,9 @@ Currently, I'm immersed in developing cross-platform mobile applications with Fl
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abolfazl-MI&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl-MI&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abolfazl-MI&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 ### Connect with me
   <a href="https://instagram.com/codeadavtures?igshid=YmMyMTA2M2Y=">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
