@@ -11,7 +11,7 @@ Currently, I'm immersed in developing cross-platform mobile applications with Fl
 ##
 ### Programming Languges
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,python,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,js&theme=dark" />
   </a>
 
 ##
