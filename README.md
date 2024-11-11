@@ -18,7 +18,7 @@ Currently, I'm immersed in developing cross-platform mobile applications with Fl
 
 ### Tools and Technologies
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,vscode,figma,git,appwrite,github,firebase,linux,expressjs,mongodb,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,vscode,figma,git,appwrite,github,firebase,linux,expressjs,mongodb,nodejs,fastify&theme=dark" />
   </a>
 
   
