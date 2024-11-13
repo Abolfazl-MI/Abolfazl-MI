@@ -17,33 +17,12 @@ Currently, I'm immersed in developing cross-platform mobile applications with Fl
 ##
 
 ##
-### Frameworks
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,expressjs,nodejs,fastify&theme=dark" />
-  </a>
-##
-
-##
-### Databases
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" />
+### Tools and framworks
+   <a href="#">
+    <img src="https://skillicons.dev/icons?i=flutter,expressjs,nodejs,firebase,appwire,docker,vscode,webstorm,androidStudio&theme=dark" />
   </a>
 
-##
 
-##
-### Editors
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,webstorm&theme=dark" />
-  </a>
-
-##
-
-##
-### Backend-as-a-Service
- <a href="#">
-    <img src="https://skillicons.dev/icons?i=firebase,appwrite&theme=dark" />
-  </a>
 ##
 
 # 📊 GitHub Stats:
