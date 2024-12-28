@@ -11,7 +11,7 @@ Currently, I'm immersed in developing cross-platform mobile applications with Fl
 ##
 ### Programming Languges
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,js,ts&theme=dark" />
   </a>
 
 ##
@@ -19,7 +19,7 @@ Currently, I'm immersed in developing cross-platform mobile applications with Fl
 ##
 ### Tools and framworks
    <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,expressjs,nodejs,firebase,appwrite,docker,vscode,webstorm,androidstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,expressjs,nestjs,nodejs,firebase,appwrite,docker,vscode,webstorm,androidstudio&theme=dark" />
   </a>
 
 
