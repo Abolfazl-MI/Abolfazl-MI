@@ -19,7 +19,7 @@ Currently, I'm immersed in developing cross-platform mobile applications with Fl
 ##
 ### Tools and framworks
    <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,expressjs,nestjs,nodejs,graphql,redis,mongodb,firebase,appwrite,docker,vscode,webstorm,androidstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,expressjs,nestjs,nodejs,graphql,redis,mongodb,postgres,firebase,appwrite,docker,vscode,webstorm,androidstudio&theme=dark" />
   </a>
 
 
