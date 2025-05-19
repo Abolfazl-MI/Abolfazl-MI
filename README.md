@@ -1,12 +1,29 @@
 
-# Hi there! 👋
-Welcome to my GitHub profile! I'm Abolfazl, a Flutter and backend developer passionate about building robust and innovative applications.
+# 👋 Welcome to My GitHub!
+I'm Edmond Wolfgone, a backend and mobile developer passionate about building robust systems and clean, scalable code. I originally started in mobile development with Flutter, but over time I've transitioned toward backend engineering, where I now focus most of my work.
 
 ## About Me
-With a background in software engineering, I specialize in creating delightful user experiences through Flutter for mobile platforms and crafting scalable backend solutions using NestJS and Express.js. I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
+🚀 About Me
+With a background in software engineering and hands-on experience in both mobile and backend development, I help teams and startups build reliable, maintainable systems. My primary focus today is on:
+  - Backend Development using Node.js (Express.js & NestJS)
+  - Relational Databases like PostgreSQL
+  - Infrastructure & DevOps with Docker
+  - Designing scalable architectures and secure RESTful APIs
+
+I'm also learning German 🇩🇪 to prepare for remote and in-person opportunities in Europe, especially Germany.
 
 ## What I'm Working On
-Currently, I'm immersed in developing cross-platform mobile applications with Flutter, leveraging its flexibility and performance to deliver seamless experiences across iOS and Android devices. Additionally, I'm architecting robust backend systems with  Express.js, ensuring scalability, security, and efficiency.
+ - Freelance backend projects using Express.js,NestJs, PostgreSQL,Mongodb with typerom.
+ - Developer tools and microservices for automation and scalability.
+ - Leveling up in system design and CI/CD pipelines
+ - Improving my German (currently A2 level) for long-term relocation goals
+
+
+## Let’s Connect
+  - 💼 Available for freelance & remote work
+  - 📫 Reach me on [Telegram](https://t.me/edmond_wolfgone)
+  - 📁 Explore my repos to see my work
+
 ---
 ##
 ### Programming Languges
@@ -33,18 +50,7 @@ Currently, I'm immersed in developing cross-platform mobile applications with Fl
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abolfazl-MI&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### Connect with me
-  <a href="https://instagram.com/codeadavtures?igshid=YmMyMTA2M2Y=">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
-  </a>
-  <a href="https://linkedin.com/in/abolfazl-mashhadi">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="https://linkedin.com/in/abolfazl-mashhadi">
-    <img src="https://skillicons.dev/icons?i=email&theme=dark" />
-  </a>
 
-  
  
 
 
