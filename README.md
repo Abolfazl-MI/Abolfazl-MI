@@ -36,7 +36,7 @@ I'm also learning German 🇩🇪 to prepare for remote and in-person opportunit
 ##
 ### Tools and framworks
    <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,expressjs,nestjs,nodejs,graphql,redis,mongodb,postgres,firebase,appwrite,docker,vscode,webstorm,androidstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,expressjs,next,nestjs,nodejs,graphql,redis,mongodb,postgres,firebase,appwrite,docker,vscode,webstorm,androidstudio&theme=dark" />
   </a>
 
 
