@@ -28,7 +28,7 @@ I'm also learning German 🇩🇪 to prepare for remote and in-person opportunit
 ##
 ### Programming Languges
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,js,ts&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,go,js,ts&theme=dark" />
   </a>
 
 ##
